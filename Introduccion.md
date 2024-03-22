@@ -14,3 +14,16 @@
 * **Scripts del lado del servidor**.
 * **Scripts desde la linea de comandos**.
 * **Escribir aplicaciones de escritorio**.
+
+## ¿Que necesito?
+* **Servidor, Apache o Nginx**.
+* **Base de datos**.
+
+Podriamos tener este entorno usando:
+* GNU/**L**inux, el sistema operativo.
+* **A**pache, el servidor web.
+* **M**ySql/**M**ariaDB, el gestor de base de datos.
+* Perl/**P**HP/Python, como lenguaje de programacion (principalmente PHP)
+
+> Windows [**WAMP**](https://www.wampserver.com/en//), Mac **MAMP**
+>[XAMP](https://www.apachefriends.org/es/index.html), Windows (Linux o Mac)
